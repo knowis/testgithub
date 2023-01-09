@@ -1,0 +1,14 @@
+appAcronym: "testgithub"
+appName: "TESTGITHUb"
+appIcon: "string"
+appDescription: "string"
+appType: "DDD"
+category: "EXPERIENCE_API"
+creationTs: "1673265830619"
+creator: "Anshul bansal"
+creatorId: "110b56a7-383f-4f06-ba1f-d6a7fbf907a8"
+domainTags: ["string"]
+language: "TYPESCRIPT"
+basePackage: "string.testgithub"
+extensions:
+ databaseType: "mongo"
